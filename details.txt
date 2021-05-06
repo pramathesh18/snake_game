@@ -3,4 +3,6 @@ Similar to the one which we must hame played once in our childhood.
 game is mainly based on two loops..one is welcome loop and another is gameloop.
 development related to highscore saving and users in under process.
 
+Auto_game is a cheat code which is under development.this program runs the snake automatically.
+for now there is a bug. That's why it hits itself.Work is underprocess.
 open to any suggestions :)
